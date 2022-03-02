@@ -1,11 +1,13 @@
 # PaperDAM
 
-This repository contains the benchmark instances used in Computational Experiments reported in <reference after publication>.
+This repository contains the benchmark instances used in Computational Experiments reported in REFERENCE
 
-Authors:
-Islame F. C. Fernandes (Corresponding author: islamifelipe@gmail.com)
-Silvia M. D. M. Maia
-Elizabeth F. G. Goldbarg
-Marco C. Goldbarg
+<br>
+
+Authors: <br>
+Islame F. C. Fernandes (Corresponding author: islamifelipe@gmail.com) <br>
+Silvia M. D. M. Maia <br>
+Elizabeth F. G. Goldbarg <br>
+Marco C. Goldbarg <br>
 
 Department of Informatics and Applied Mathematics, Federal University of Rio Grande do Norte (UFRN), Campus Universitário, Lagoa Nova, Natal, Brazil
