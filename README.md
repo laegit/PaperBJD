@@ -1,6 +1,6 @@
 # PaperDAM
 
-This repository contains the benchmark instances used in Computational Experiments reported in REFERENCE
+This repository contains the Bi-objective Spanning Tree Problem benchmark instances used in Computational Experiments reported in REFERENCE.
 
 <br>
 
